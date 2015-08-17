@@ -1,0 +1,53 @@
+body {
+	font-family: 'Open Sans';
+	color: #333333;
+}
+
+header h1 {
+	font-weight: 300;
+	text-align: center;
+}
+
+header p {
+	font-weight: 400;
+	text-align: center;
+	margin-top: -20px;
+	font-size: 12px;
+}
+
+nav ul {
+	font-weight: 300;
+	text-align: center;
+	margin-top: 35px;
+}
+
+nav li {
+    display: inline;
+    list-style: none;
+    margin: 20px;
+}
+
+/* unvisited link */
+a:link {
+    color: #333333;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #333333;
+}
+
+/* mouse over link */
+a:hover {
+    color: #999999;
+}
+
+/* selected link */
+a:active {
+    color: #999999;
+}
+
+img {
+	margin-bottom: 10px;
+}
